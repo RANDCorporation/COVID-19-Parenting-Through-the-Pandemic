@@ -19,11 +19,11 @@ Using the January 2020 Basic Monthly Sample of the Current Population Survey (CP
 
 1. Download the two Do files in this repository.
 
-2. Download data from the cps.ipums.org (see “AWB CPSdo 4_1_2020 clean data.do” for variables needed from the CPS).
+2. Download data from the cps.ipums.org (see “AWB CPSdo 4_8_2020 clean data.do” for variables needed from the CPS).
     
-3. Run “AWB CPSdo 4_1_2020.do”
+3. Run “AWB CPSdo 4_8_2020 clean data.do”
 
-4. Run “AWB CPSdo 4_1_2020 stats.do”
+4. Run “AWB CPSdo 4_8_2020 stats.do”
 
 ### Other notes
 
