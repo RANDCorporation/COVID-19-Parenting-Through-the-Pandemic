@@ -1,6 +1,8 @@
 # RAND Commentary – COVID-19 Parenting Through the Pandemic 
 ED & Labor Unit
 
+This GitHub repository supports a RAND Commentary by Kathryn Edwards, Grace Evans, and Daniel Schwam and can be found at the following URL: https://www.rand.org/blog/2020/04/parenting-through-the-pandemic-whos-working-whos-caring.html
+
 #### -- Project Status: Completed.
 
 ## Project Intro/Objective
@@ -35,3 +37,8 @@ Kathryn Edwards (kathryne@rand.org)
 Daniel Schwam (dschwam@rand.org)
 
 * Feel free to contact team leads with any questions or if you are interested in contributing!
+
+## Suggested citation for this repository:
+
+Edwards, Kathryn, Evans, Grace, and Schwam, Daniel, “Parenting Through the Pandemic: Who's Working, Who's Caring for the Kids, and What Policies Might Help,” GitHub, RAND Corporation Repository, last updated 9 April 2020. As of August 27, 2020: https://github.com/RANDCorporation/COVID-19-Parenting-Through-the-Pandemic
+
